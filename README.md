@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TikiTorch21
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning Python Intermediate Level
-- 📫 How to reach me: Email me at prateek.mannem@gmail.com!!
+- 📫 How to reach me: Email me at mannemprateek2@gmail.com!!
 
 <!---
 TikiTorch21/TikiTorch21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
